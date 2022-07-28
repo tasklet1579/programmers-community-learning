@@ -9,9 +9,10 @@
 
 ✍️ 2주차
 
-|유형|제목|내용|코드|
-|---|---|---|---|
-|||||
+|제목|내용|코드|
+|---|---|---|
+|상담 예약제|[바로 가기](src/edu/programmers/practice/p100229/description.md)|[바로 가기](src/edu/programmers/practice/p100229/Main.java)|
+|티셔츠|[바로 가기](src/edu/programmers/practice/p100230/description.md)|[바로 가기](src/edu/programmers/practice/p100230/Main.java)|
 
 ✍️ 3주차
 
