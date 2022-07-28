@@ -25,6 +25,6 @@
 
 ✍️ 4주차
 
-|유형|제목|내용|코드|
-|---|---|---|---|
-|||||
+|제목|내용|코드|
+|---|---|---|
+|세균 증식|[바로 가기](src/edu/programmers/practice/p10145/description.md)|[바로 가기](src/edu/programmers/practice/p10145/Main.java)|
