@@ -5,6 +5,7 @@
 |그리디|기지국 설치|[바로 가기](src/edu/programmers/practice/p100301/description.md)|[바로 가기](src/edu/programmers/practice/p100301/Main.java)|[바로 가기](src/edu/programmers/practice/p100301/Answer.java)|
 |정렬|가장 큰 수|[바로 가기](src/edu/programmers/practice/p100302/description.md)|[바로 가기](src/edu/programmers/practice/p100302/Main.java)|[바로 가기](src/edu/programmers/practice/p100302/Answer.java)|
 |이분탐색|예산|[바로 가기](src/edu/programmers/practice/p100303/description.md)|[바로 가기](src/edu/programmers/practice/p100303/Main.java)| |
+|이분탐색|예산|[바로 가기](src/edu/programmers/practice/p100591/description.md)|[바로 가기](src/edu/programmers/practice/p100591/Main.java)|[바로 가기](src/edu/programmers/practice/p100591/Answer.java)|
 |시뮬레이션|숫자 게임|[바로 가기](src/edu/programmers/practice/p100304/description.md)|[바로 가기](src/edu/programmers/practice/p100304/Main.java)|[바로 가기](src/edu/programmers/practice/p100304/Answer.java)|
 
 ✍️ 2주차
